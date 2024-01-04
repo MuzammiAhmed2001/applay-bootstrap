@@ -1,0 +1,90 @@
+<!-- <nav class="navbar navbar-expand-lg bg-body-tertiary navv fixed-top bg-body-tertiary">
+                    <div class="container">
+                        <a class="navbar-brand logo" href="#"><img src="img/web-logo-2.png" alt=""></a>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse nav-sec2" id="navbarSupportedContent">
+                            <ul class="navbar-nav me-auto mb-2 mb-lg-0 nav-content nav-ul-a dropp-manu">
+                                <li class="nav-item dropdown act1">
+                                    <a class="nav-link dropdown-toggle " href="#" role="button"
+                                        data-bs-toggle="dropdown" aria-expanded="false">
+                                        HOME <br> <span class="nav-span">showcase</span>
+                                    </a>
+                                    <ul class="dropdown-menu dropp-men">
+                                        <li><a class="dropdown-item" href="#">Home Modern Style</a></li>
+                                        <li><a class="dropdown-item" href="#">Home Modern Style</a></li>
+                                        <li><a class="dropdown-item" href="#">Home Modern Style</a></li>
+                                        <li><a class="dropdown-item" href="#">Home Modern Style</a></li>
+                                        <li><a class="dropdown-item" href="#">Home Modern Style</a></li>
+                                        <li><a class="dropdown-item" href="#">Home Modern Style</a></li>
+                                        <li><a class="dropdown-item" href="#">Home Modern Style</a></li>
+                                        <li><a class="dropdown-item" href="#">Home Modern Style</a></li>
+
+                                    </ul>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                                        aria-expanded="false">
+                                        APP STORE <br> <span class="nav-span">Get Yours</span>
+                                    </a>
+                                    <ul class="dropdown-menu dropp-men">
+                                        <li><a class="dropdown-item" href="#">App store style 1</a></li>
+                                        <li><a class="dropdown-item" href="#">App store style 2</a></li>
+
+                                        <li><a class="dropdown-item" href="#">App store style 3</a></li>
+                                        <li><a class="dropdown-item" href="#">Vendor Shop</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                                        aria-expanded="false">
+                                        FEATURES <br> <span class="nav-span">shortcodes</span>
+                                    </a>
+                                    <ul class="dropdown-menu dropp-men">
+                                        <li><a class="dropdown-item" href="#">Showcase shortcods</a></li>
+                                        <li><a class="dropdown-item" href="#">contant shortcode</a></li>
+
+                                        <li><a class="dropdown-item" href="#">Quries shortcodes</a></li>
+                                        <li><a class="dropdown-item" href="#">Multi Vendors</a></li>
+                                        <li><a class="dropdown-item" href="#">Login</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                                        aria-expanded="false">
+                                        BLOG <br> <span class="nav-span">News</span>
+                                    </a>
+                                    <ul class="dropdown-menu dropp-men">
+                                        <li><a class="dropdown-item" href="#">Blog Style 1</a></li>
+                                        <li><a class="dropdown-item" href="#">Blog Style 2</a></li>
+
+                                        <li><a class="dropdown-item" href="#">Blog Style 3</a></li>
+                                        <li><a class="dropdown-item" href="#">Blog Custom Header</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                                        aria-expanded="false">
+                                        CONTACT <br> <span class="nav-span">Us</span>
+                                    </a>
+                                    <ul class="dropdown-menu dropp-men con-menu">
+                                        <li><i class="fa-regular fa-comment"></i><a class="dropdown-item" href="#">Ask
+                                                Before Buy</a></li>
+                                        <li><i class="fa-regular fa-circle-question"></i><a class="dropdown-item"
+                                                href="#">Another action</a></li>
+                                        <li><i class="fa-solid fa-download"></i><a class="dropdown-item"
+                                                href="#">Something else here</a></li>
+                                    </ul>
+                                </li>
+
+                            </ul>
+                            <form class="d-flex lang-ser" role="search">
+                                <img src="img/en.png" alt="">
+                                <i class="fa-solid fa-magnifying-glass"></i>
+                            </form>
+                        </div>
+                    </div>
+                </nav> -->
