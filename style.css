@@ -1578,6 +1578,11 @@
 }
 
 @media screen and (max-width: 430px) {
+    .logo img {
+        height: 50px;
+        width: 150px;
+    }
+
     .hero-sec2 p {
         font-size: 12px;
     }
@@ -1670,5 +1675,42 @@
 
     .section16-main {
         padding: 100px 20px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .sec5-con1 {
+        padding-left: 15px;
+    }
+
+    .slide11 {
+        width: 192px;
+    }
+
+    .sec4-img1 img {
+        width: 125px;
+        height: 230px;
+    }
+
+    .sec4-img1 {
+        left: 120px;
+    }
+
+    .sec4-img2 img {
+        width: 125px;
+        height: 230px;
+    }
+
+    .sec4-img2 {
+        left: 0px;
+    }
+
+    .sec4-img3 img {
+        width: 125px;
+        height: 230px;
+    }
+
+    .sec4-img3 {
+        left: -127px;
     }
 }
